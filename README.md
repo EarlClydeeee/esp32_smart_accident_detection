@@ -1,5 +1,6 @@
-# Helmivo — ESP32 smart helmet / accident detection
 
+# Helmivo — ESP32 smart helmet / accident detection
+<img width="1179" height="1758" alt="9fdd92f9-58a5-4a0d-ae86-2f1d0d9601bf" src="https://github.com/user-attachments/assets/7d2c68a2-7a1f-4570-83fd-a27738588eaf" />
 Arduino firmware for an ESP32-based **smart helmet** prototype: **MPU6050** motion sensing, **u-blox GPS** over UART, **Wi-Fi** (access point + optional home Wi-Fi), a **web dashboard**, **Telegram** alerts, and GPIO for a **relay (helmet lights)** and **buzzer**.
 
 **Disclaimer:** This is experimental firmware, not a certified safety or medical device. Do not rely on it for life-critical decisions.
